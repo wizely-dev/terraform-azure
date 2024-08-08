@@ -1,2 +1,2 @@
 # terraform-azure
-Script dédié aux déploiements de diverses piles sur Azure
+Divers scripts dédiés à divers déploiements d'environnement
